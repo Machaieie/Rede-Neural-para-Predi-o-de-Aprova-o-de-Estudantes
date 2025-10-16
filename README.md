@@ -1,4 +1,3 @@
-Aqui está um **README descritivo** e bem estruturado para o seu projeto de **Rede Neural para Predição de Aprovação de Estudantes** 👇
 
 ---
 
