@@ -109,7 +109,7 @@ projeto-aprovacao/
 ### 1. Clonar ou descompactar o projeto
 
 ```bash
-cd projeto-aprovacao
+git clone Rede-Neural-para-Predi-o-de-Aprova-o-de-Estudantes.git
 ```
 
 ### 2. Criar ambiente virtual
